@@ -1,0 +1,8 @@
+.table-center {
+    width: 50%;
+    margin: 0 auto; 
+}
+.table-color thead tr:first-child {
+    background-color: blue; 
+    color: yellow; 
+}
